@@ -1,5 +1,5 @@
 print("Witaj w kalkulatorze kondensatorów")     # Powitanie i Autor
-print("Made by: Olaf Jarczyński")
+print("Made by: CZERWONY")
 
 print("")
 print("Jakie ma to być połączenie", '\n', "1-równoległe", '\n', "2-szeregowe")  # Pytanie
