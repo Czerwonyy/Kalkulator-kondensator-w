@@ -21,6 +21,6 @@ if question == "2":                             # Obliczanie szeregowe
     
     c = (1/a) + (1/b)
     
-    print(c)
+    print(1/c)
     
 # Cześć, jestem kodem :D
